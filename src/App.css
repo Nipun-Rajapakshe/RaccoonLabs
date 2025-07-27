@@ -1,3 +1,13 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: 'Arial', Helvetica, sans-serif;
+  background: linear-gradient(to right, #82ff99, #aaffbd);
+  color: #333;
+}
 .App {
   text-align: center;
 }
