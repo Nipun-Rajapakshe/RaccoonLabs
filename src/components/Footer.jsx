@@ -13,10 +13,11 @@ const Footer = () => {
             </div>
 
             <div className="footer-social-media">
+                <h2>Quick Contact</h2>
                 <ul>
-                    <li><a href="#home">Home</a></li>
-                    <li><a href="#features">Features</a></li>
-                    <li><a href="#contact">Contact</a></li>
+                    <li><a href="#home">E-mail</a></li>
+                    <li><a href="#features">WhatsApp</a></li>
+                    <li><a href="#contact">Telegram</a></li>
                 </ul>
             </div>
         </div>
@@ -30,7 +31,7 @@ const Footer = () => {
         </div>
 
         <div className="footer-bottom">
-            © {new Date().getFullYear()} My React App. All rights reserved.
+            © {new Date().getFullYear()} RaccoonLabs. All rights reserved.
         </div>
 
     </footer>

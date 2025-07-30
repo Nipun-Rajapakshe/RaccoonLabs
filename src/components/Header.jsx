@@ -5,6 +5,7 @@ import ProfileP from '../images/NipunRajapakshe-01.png';
 const Header = () => {
   return (
     <header className="header">
+      
       <div className="header-container">
         <h2 className="header-greeting">Hello! I'm Nipun Rajapakshe</h2>
         <h1 className="header-title">Where Code Meets Creativity for a Cinematic Web Journey</h1>
