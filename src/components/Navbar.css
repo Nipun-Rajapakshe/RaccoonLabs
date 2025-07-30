@@ -58,7 +58,6 @@
   padding: 60px 2rem;
   margin: 1rem;
   text-align: center;
-  border: 2px solid #000000;
     
 }
 
@@ -67,8 +66,6 @@
     text-align: start;
     max-width: 50%;
     line-height: normal;
-
-    border: 2px solid #000000;
 }
 .header-greeting {
     font-size: 1.5rem;
