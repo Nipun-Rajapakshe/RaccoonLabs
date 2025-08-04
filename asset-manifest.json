@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/raccoon-labs/static/css/main.521bcd8d.css",
-    "main.js": "/raccoon-labs/static/js/main.4c7c974f.js",
+    "main.css": "/raccoon-labs/static/css/main.a809e6be.css",
+    "main.js": "/raccoon-labs/static/js/main.6625aba3.js",
     "static/js/453.6ed0c505.chunk.js": "/raccoon-labs/static/js/453.6ed0c505.chunk.js",
     "static/media/NipunRajapakshe-01.png": "/raccoon-labs/static/media/NipunRajapakshe-01.4534dd628a1e3d6b6a16.png",
     "index.html": "/raccoon-labs/index.html",
-    "main.521bcd8d.css.map": "/raccoon-labs/static/css/main.521bcd8d.css.map",
-    "main.4c7c974f.js.map": "/raccoon-labs/static/js/main.4c7c974f.js.map",
+    "main.a809e6be.css.map": "/raccoon-labs/static/css/main.a809e6be.css.map",
+    "main.6625aba3.js.map": "/raccoon-labs/static/js/main.6625aba3.js.map",
     "453.6ed0c505.chunk.js.map": "/raccoon-labs/static/js/453.6ed0c505.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.521bcd8d.css",
-    "static/js/main.4c7c974f.js"
+    "static/css/main.a809e6be.css",
+    "static/js/main.6625aba3.js"
   ]
 }
