@@ -11,7 +11,10 @@ const Header = () => {
         <h1 className="header-title">Where Code Meets Creativity for a Cinematic Web Journey</h1>
         <p className="header-subtitle">Leveraging modern web technologies including ReactJS, Responsive design and intuitive interfaces
             to bring your digital vision to life. Let's create something extraordinary together!</p>
-        <button className="about-me">About Me</button>
+        <div className="header-buttons">
+          <button className="about-me">About Me</button>
+          <button className="ai-tool">Image Generator</button>
+        </div>  
       </div>
                        
 
